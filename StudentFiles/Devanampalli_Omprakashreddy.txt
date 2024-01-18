@@ -1,0 +1,1 @@
+Class has full number of strength, so there is lot of noise and difficult to control
