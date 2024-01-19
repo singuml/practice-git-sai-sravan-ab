@@ -1,2 +1,6 @@
 Hi Everyone! Welcome to ML-Class.
+<<<<<<< HEAD
 3 to 4 PM
+=======
+ML class timings 3:35 PM to 4:50 PM
+>>>>>>> d0adc8c41d1b0f4d6026498d7d48e57e1bef338e
